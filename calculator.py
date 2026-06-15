@@ -44,7 +44,8 @@ while True:
                 print('Error, Cannot devide by 0.')
                 input('R to reset:')
                 continue
-                result = num1 / num2
+                
+            result = num1 / num2
         else:
             print('Invalid number.\n')
             input('R to reset:')
